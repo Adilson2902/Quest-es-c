@@ -1,0 +1,3 @@
+/media/adilson/New Volume/JS/Quest-es-c/19/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/adilson/New Volume/JS/Quest-es-c/19/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/adilson/New Volume/JS/Quest-es-c/19/cmake-build-debug/CMakeFiles/19.dir

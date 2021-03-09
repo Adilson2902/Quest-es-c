@@ -64,10 +64,10 @@ RM = /snap/clion/139/bin/cmake/linux/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/media/adilson/New Volume/17"
+CMAKE_SOURCE_DIR = "/media/adilson/New Volume/JS/Quest-es-c/17"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/media/adilson/New Volume/17/cmake-build-debug"
+CMAKE_BINARY_DIR = "/media/adilson/New Volume/JS/Quest-es-c/17/cmake-build-debug"
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -94,14 +94,14 @@ clean: CMakeFiles/17.dir/clean
 CMakeFiles/17.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/17.dir/build.make CMakeFiles/17.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/17.dir/build.make CMakeFiles/17.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/media/adilson/New Volume/17/cmake-build-debug/CMakeFiles" --progress-num=1,2 "Built target 17"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/media/adilson/New Volume/JS/Quest-es-c/17/cmake-build-debug/CMakeFiles" --progress-num=1,2 "Built target 17"
 .PHONY : CMakeFiles/17.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/17.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/media/adilson/New Volume/17/cmake-build-debug/CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "/media/adilson/New Volume/JS/Quest-es-c/17/cmake-build-debug/CMakeFiles" 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/17.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/media/adilson/New Volume/17/cmake-build-debug/CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "/media/adilson/New Volume/JS/Quest-es-c/17/cmake-build-debug/CMakeFiles" 0
 .PHONY : CMakeFiles/17.dir/rule
 
 # Convenience name for target.

@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/media/adilson/New Volume/17/main.cpp" "/media/adilson/New Volume/17/cmake-build-debug/CMakeFiles/17.dir/main.cpp.o"
+  "/media/adilson/New Volume/JS/Quest-es-c/17/main.cpp" "/media/adilson/New Volume/JS/Quest-es-c/17/cmake-build-debug/CMakeFiles/17.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

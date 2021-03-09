@@ -1,4 +1,4 @@
-# Install script for directory: /media/adilson/New Volume/22
+# Install script for directory: /media/adilson/New Volume/JS/Quest-es-c/22
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/media/adilson/New Volume/22/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/media/adilson/New Volume/JS/Quest-es-c/22/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

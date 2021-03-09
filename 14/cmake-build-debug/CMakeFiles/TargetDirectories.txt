@@ -1,0 +1,3 @@
+/media/adilson/New Volume/29 questões/Quest-es-c/14/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/adilson/New Volume/29 questões/Quest-es-c/14/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/adilson/New Volume/29 questões/Quest-es-c/14/cmake-build-debug/CMakeFiles/14.dir
