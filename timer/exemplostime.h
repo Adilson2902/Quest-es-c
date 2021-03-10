@@ -1,3 +1,7 @@
+#define  BRA (-3)
+
+
+
 void  timeexemplo1(){
 
     time_t  seg;
@@ -64,5 +68,41 @@ void timeexemplo4(){
 
     hora_do_dia  = mktime(&str_time);
     printf(ctime(&hora_do_dia));
+
+}
+
+void timeexemplo5(){
+    time_t  start,end;
+
+    volatile long  unsigned contador;
+
+
+    start = time(NULL);
+
+
+    for (contador  = 0; contador <  500000000; contador++) {
+
+        end = time(NULL);
+    }
+
+    printf("\n -------------- Exemplo 5 ---------------- \n");
+    printf("O loop for usa %f segundos \n",difftime(end,start));
+
+
+}
+
+
+void  timeexemplo6(){
+
+    time_t  Tempo;
+    struct  tm *ptr_ts;
+
+    time(&Tempo);
+
+    ptr_ts = gmtime(&Tempo);
+
+
+    printf("\n -------------- Exemplo 6 ---------------- \n");
+    printf("Depois pego no slide");
 
 }
