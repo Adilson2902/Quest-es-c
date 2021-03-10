@@ -6,11 +6,13 @@
 
 #IncludeRegexTransform: 
 
+/media/adilson/New Volume/JS/Quest-es-c/timer/exemplostime.h
+
 /media/adilson/New Volume/JS/Quest-es-c/timer/main.cpp
 cstdio
 -
 ctime
 -
-ctime
--
+exemplostime.h
+/media/adilson/New Volume/JS/Quest-es-c/timer/exemplostime.h
 
