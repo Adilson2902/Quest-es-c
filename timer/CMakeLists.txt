@@ -3,4 +3,4 @@ project(timer)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(timer main.cpp)
+add_executable(timer main.cpp exemplostime.h)

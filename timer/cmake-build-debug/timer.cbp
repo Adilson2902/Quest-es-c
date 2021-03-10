@@ -82,6 +82,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/media/adilson/New Volume/JS/Quest-es-c/timer/exemplostime.h">
+			<Option target="timer"/>
+		</Unit>
 		<Unit filename="/media/adilson/New Volume/JS/Quest-es-c/timer/main.cpp">
 			<Option target="timer"/>
 		</Unit>

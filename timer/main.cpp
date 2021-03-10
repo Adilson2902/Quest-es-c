@@ -1,15 +1,12 @@
 #include <cstdio>
 #include <ctime>
-#include <ctime>
+#include "exemplostime.h"
 
 
 
 int main() {
+timeexemplo1();
 
-    time_t  seg;
-
-    seg = time(NULL);
-    printf("N de horas que passou: %d",(seg/3600));
-
+timeexemplo2();
     return 0;
 }
