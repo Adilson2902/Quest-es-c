@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/header.dir/main.cpp.o  -o header 
