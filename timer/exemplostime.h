@@ -46,3 +46,23 @@ void timeexemplo3(){
 
 }
 
+
+void timeexemplo4(){
+
+    struct  tm str_time;
+    time_t hora_do_dia;
+
+
+    printf("\n -------------- Exemplo 4 ---------------- \n");
+    str_time.tm_year = 1990-1900;
+    str_time.tm_mon = 2;
+    str_time.tm_mday = 7;
+    str_time.tm_hour = 11;
+    str_time.tm_min = 30;
+    str_time.tm_sec = 0;
+    str_time.tm_isdst = 0;
+
+    hora_do_dia  = mktime(&str_time);
+    printf(ctime(&hora_do_dia));
+
+}
