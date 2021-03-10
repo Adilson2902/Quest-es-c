@@ -8,5 +8,7 @@ int main() {
 timeexemplo1();
 
 timeexemplo2();
+
+timeexemplo3();
     return 0;
 }
