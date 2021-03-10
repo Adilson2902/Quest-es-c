@@ -3,13 +3,16 @@ void  timeexemplo1(){
     time_t  seg;
 
     seg = time(NULL);
+    printf("\n -------------- Exemplo 1 ---------------- \n");
     printf("N de horas que passou: %d \n",(seg/3600));
+
+
 
 }
 
 void timeexemplo2(){
 
-
+    printf("\n -------------- Exemplo 2 ---------------- \n");
     time_t  seg;
 
     seg = time(NULL);
@@ -30,7 +33,7 @@ void timeexemplo3(){
     curtime = time(NULL);
 
     loc_time = localtime(&curtime);
-
+    printf("\n -------------- Exemplo 3 ---------------- \n");
 
     printf("Formato-padrao: %s",asctime(loc_time));
     strftime(buffer,150,"Hoje é %A, %d de %B de %Y. \n",loc_time);
